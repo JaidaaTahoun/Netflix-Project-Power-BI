@@ -1,5 +1,4 @@
 This dashboard presents a comprehensive view of Netflix's content as of the specified data range. It is designed to be user-friendly, providing insights into the variety and distribution of Netflix's offerings.
-This 
 
 Features:
 Total Titles: Displays the total number of titles available.
